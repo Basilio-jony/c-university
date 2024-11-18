@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\estudos\programação\escola\bin\Debug\net9.0\escola.exe
+C:\Users\ADMIN\Desktop\estudos\programação\escola\bin\Debug\net9.0\escola.deps.json
+C:\Users\ADMIN\Desktop\estudos\programação\escola\bin\Debug\net9.0\escola.runtimeconfig.json
+C:\Users\ADMIN\Desktop\estudos\programação\escola\bin\Debug\net9.0\escola.dll
+C:\Users\ADMIN\Desktop\estudos\programação\escola\bin\Debug\net9.0\escola.pdb
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.dll
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\refint\escola.dll
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.pdb
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\escola.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\estudos\programação\escola\obj\Debug\net9.0\ref\escola.dll
