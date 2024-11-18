@@ -1,0 +1,3 @@
+se estas aqui é porque possivelmente ou caiste aqui de paraquedas ou então te mandei isso para poderes ver o meu codigo....
+anyway fell free to see my code and add some implementations, of course it's just a program that i do as assigment on university and i don't know nothing about c# so feel free to do whatever you want
+peace ma brotha or sista, God loves you :)
