@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 public class Disciplina
 {
@@ -54,12 +53,12 @@ class Program
         Professor profMaisjovem = professores[0];
         //encontrar o professor com maior salário e o mais jovem
         foreach (var professor in professores)
-        {
-            if (professor.Salario > profMaiorSal.Salario)
+        { //para cada professor na lista, duas condiçoes são verificadas: maior salário e mais jovem
+            if (professor.Salario > profMaiorSal.Salario)//se o salario do professor atual(professor.salario) for maior que o salario do professor armazenado em "profMaiorSal", entao "profMaiorSal" é atualizado para ser o professor atual.
             {
                 profMaiorSal = professor;
             }
-            if (professor.Idade < profMaisjovem.Idade)
+            if (professor.Idade < profMaisjovem.Idade)//mais jovem segue a mesma premissa do prof com maior salario
             {
                 profMaisjovem = professor;
             }
@@ -73,11 +72,11 @@ class Program
             if (professor.Genero == "F")
             {
                 profsFemeninos.Add(professor);
-            }
+            }//se o genero do professor for feminino, ele é adicionado a lista de professores femininos
             else if (professor.Genero == "M")
             {
                 profsMasculinos.Add(professor);
-            }
+            }//mesma coisa
         }
         //imprime os resultados
         Console.WriteLine($"professor com o maior salário: {profMaiorSal.Nome}, Salario: {profMaiorSal.Salario}");
@@ -100,9 +99,8 @@ class Program
         {
             Console.WriteLine($"{i + 1}. {disciplinas[i].NomeCadeira} - {disciplinas[i].Professor.Nome}");
         }
-        //finalmente acabou essa desgraça :) 
+        //finalmente acabou :) 
         Console.WriteLine("Pressione qualquer tecla para sair...");
-        Console.ReadKey(); //essa porra espera o usuario pressionar uma tecla
-        //quem nao entender se ferrou!!!
+        Console.ReadKey(); //essa funcao espera o usuario pressionar uma tecla
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\escola\\escola.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\outro\\escola\\escola.csproj",
       "projectName": "escola",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\escola\\escola.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\outro\\escola\\escola.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\escola\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\estudos\\programação\\outro\\escola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
