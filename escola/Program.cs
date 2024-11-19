@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic;//usamos para trabalhar com listas de objectos como a lista <professor>
 
 public class Disciplina
 {
